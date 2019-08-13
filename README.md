@@ -1,1 +1,1 @@
-# fisica-interactiva
+# Exploración Matemática Interactiva
